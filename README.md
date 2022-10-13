@@ -3,6 +3,8 @@ A Crypto Currency that I made for fun with solidity
 
 Once upon a time, I woke up realized that crypto currencies are the best way to trade social tokens for people and their common interest. Among my interest is making a token for my tribe for fun. This now became a project called #ProjectDRD or Project DaRooD (DRD) Coin. I programmed with this Solidity with Binance Smart Chain.
 
+This token is made to be traded to be between Bosaso to Garissa, and is strictly for the Daroood tribe nothing but that.
+
 It has a market cap of 150,000 DRD wand dividable by 18 digits. If you want to come and trade, make sure you have a Metamask wallet and go buy this token from PancakeSwap.
 
 Steps on how to buy:
